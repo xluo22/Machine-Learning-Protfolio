@@ -55,9 +55,9 @@ Each project folder contains:
 
 ## Tools & Technologies
 - **Programming Languages:** Python
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow, Keras
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, XGBoost
 - **Tools:** Tableau, Power BI, Git, Google Cloud Platform, AWS
-- **Frameworks:** Scikit-learn, XGBoost, Keras, TensorFlow
+- **Machine Learning Frameworks:** Scikit-learn, XGBoost, Keras, TensorFlow
 
 ---
 
